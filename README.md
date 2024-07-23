@@ -1,5 +1,5 @@
 **Name:** Dayya Sri Varsha
-**Company:** CODTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 **ID:** CT08DS3123
 **Domain:** Python programming
 **Duration:** June to july 2024
